@@ -337,29 +337,30 @@ svg {
 
 .as-biggg {
   text-align: center;
-  margin-right: 500px;
+  margin-right: 470px;
+}
+
+.top-gap {
+  margin-top: 10px;
 }
 
 .as-bigg {
-  text-align: center;
   margin-right: 460px;
-  font-size: 1.3rem;
   width: 200px;
   height: 5px;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .as-big {
   text-align: center;
   margin-right: 460px;
-  font-size: 1.3rem;
   height: 5px;
   width: 300px;
 }
 
 h6 {
   font-size: 0.9rem;
-  margin: 10px;
+  margin: 15px;
 }
 
 .after1 {
