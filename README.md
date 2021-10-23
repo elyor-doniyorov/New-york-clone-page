@@ -12,7 +12,7 @@ The New York Times is a clone page was built for learning 'POSITIONING AND FLOAT
 ![screenshot](./img/readme.png)
 
 # Live demo link
-[Live demo link](https://rawcdn.githack.com/elyor-doniyorov/New-york-clone-page/e2ff911c732911524e89b3cc25d9d8d3bb6cbd2f/index.html)
+[Live demo link](https://rawcdn.githack.com/elyor-doniyorov/New-york-clone-page/9c8d9d0859d1d8332599454a2a04e40928e82ddd/index.html)
 
 
 ## Clone This Project
