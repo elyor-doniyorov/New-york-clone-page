@@ -1,14 +1,13 @@
 # The-New-York-Times clone
 
-PROJECT: POSITIONING AND FLOATING ELEMENTS
+The New York Times is a clone page was built for learning 'POSITIONING AND FLOATING ELEMENTS' purposes
 
 # Built With
 
 - HTML5, 
 - CSS3, 
 - Flexbox, 
-- Grid, 
-- Fontawesome
+- CSS Grid, 
 
 ![screenshot](./img/readme.png)
 
@@ -16,13 +15,21 @@ PROJECT: POSITIONING AND FLOATING ELEMENTS
 [Live demo link](https://rawcdn.githack.com/elyor-doniyorov/New-york-clone-page/e2ff911c732911524e89b3cc25d9d8d3bb6cbd2f/index.html)
 
 
-**Author1**
+## Clone This Project
+```
+- git clone `$ https://github.com/elyor-doniyorov/New-york-clone-page.git`
+- cd New-york-clone-page.
+- Open it with the Live server.
+```
+
+
+**arikarim**
 
  GitHub: [@arikarim](https://github.com/arikarim)
  
  LinkedIn: [@arikarim](https://www.linkedin.com/in/ari-karim-523bb81b3)
 
- **Author2**
+ **Elyor**
 
  GitHub: [@Elyor Doniyorov](https://github.com/elyor-doniyorov)
  
@@ -32,7 +39,7 @@ PROJECT: POSITIONING AND FLOATING ELEMENTS
 #🤝 Contributing
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the issues page.[issues page]().
 
 #Show your support
 Give a ⭐️ if you like this project!
